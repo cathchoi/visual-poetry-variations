@@ -1,6 +1,6 @@
 
 /*5-1*/
-.body{background-image: url("wildflower\ background.JPEG");
+.body{background-image: url("images/wildflower\ background.JPEG");
     font-family: 'Abril Fatface', cursive;
     text-align: center;
     letter-spacing: 2px;
@@ -38,7 +38,7 @@
 
 
 /*5-2*/
-.bodyn2{background-image: url("wildflower.JPEG");}
+.bodyn2{background-image: url("images/wildflower.JPEG");}
 .mintbox{background-color: #bbc4ac;
               width: 200px;
               height: 100px;
@@ -140,7 +140,7 @@
        animation: pulse 5s infinite;}
        @keyframes pulse{0% {background-color: #bbc4ac;}
        100% {background-color: #bfe6ff;
-             background-image: url("free\ wildflower\ background\ removed.PNG");}}
+             background-image: url("images/free\ wildflower\ background\ removed.PNG");}}
        html,
        body {height: 100%;}
 .hp53{font-family:'Berkshire Swash', cursive;
