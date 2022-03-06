@@ -1,0 +1,179 @@
+.title
+    {margin-top: 100px;
+     margin-bottom: 100px;
+     margin-left: 500px;
+     margin-right: 600px;}
+
+.ex1{margin-top: 30px;
+     margin-bottom: 50px;
+     margin-left: 700px;
+     margin-right: 100px;}
+
+.ex2{margin: 50px;}
+
+.author{margin-left: 550px;
+        margin-right: 200px;}
+
+
+
+div.title2
+    {position: relative;
+    left: 500px;
+    top: 300px;
+    right: 400px;
+    bottom: 100px;}
+
+div.text2
+    {position: absolute;
+    left: 300px;
+    top: 200px;}
+
+div.text3
+    {position: absolute;
+     left: 50px;
+     top: 350px;}
+.text3display{display:block;}
+
+div.text4
+    {position: absolute;
+     left: 30px;}
+
+div.text5
+    {position: absolute;
+     left: 600px;}
+
+div.text6
+    {position: absolute;
+     left: 900px;
+     top: 150px;}
+
+div.text7
+    {position: absolute;
+     top: 400px;
+     left: 800px;}
+
+div.text8
+    {position: absolute;
+     top: 600px;
+     left: 800px;}
+
+
+
+
+div.heading
+    {position: absolute;
+     top: 50px;
+     left: 500px;}
+
+div.ex3
+    {position: fixed;
+     top: 105px;
+     width: 95px;
+     left: 450px;}
+
+     .ex3-1
+    {position: absolute;
+     top: 215px;
+     width: 200px;
+     left: 500px;}
+
+     .ex3-2
+     {position: fixed;
+      top: 270px;
+      width: 100px;
+      left: 600px;}
+     
+     .ex3-3
+     {position: absolute;
+      top: 380px;
+      width: 100px;
+      left: 700px;}
+
+    .ex3-4
+    {position: absolute;
+     top: 490px;
+     width: 100px;
+     left: 800px;}
+
+p.one
+    {border: solid;
+     border-color:#7baa8f;
+     border-width: 20px;
+     border-style: double;}
+ .two
+    {border: solid;
+     border-color: #aab597;
+     border-width: 20px;
+     border-style: double;}
+
+.three
+     {position: absolute;
+      top: 600px;
+      left: 500px;}
+
+
+
+.heading1
+      {position: absolute;
+       top: 30px;
+       left: 300px;}    
+.heading2
+    {position: absolute;
+     top: 50px;
+     left: 500px;}
+.heading3
+     {position: absolute;
+      top: 30px;
+      left: 650px;}
+
+.authorname
+     {padding: 300px;
+      padding-top: 55px;
+      color: grey;}
+.authorname2
+     {position: absolute;
+      width: 500px;
+      top: 75px;
+      left: 500px;
+      color: grey;}
+
+.text
+    {position: fixed;
+     left: 520px;
+     top: 150px;
+     width: 100px;
+     border: dotted;
+     border-width: 3px;
+     border-color:salmon;}
+.text2
+    {position: absolute;
+     left: 520px;
+     top: 200px;}
+.text3
+    {position: absolute;
+     width: 50%;
+     bottom: 300px;
+     right: 80px;}
+div.text4
+    {position: absolute;
+     margin: 20px;
+     margin-top: 10px;
+     margin-left:500px;
+     display: block;}
+.text5
+    {position: relative;
+     margin: 200px;}
+.text6
+    {padding-top: 50px;
+     padding-right: 300px;}
+
+
+.lv3button{background-color: #7baa8f;
+           width: 100px;
+           height: 50px;}
+.a:hover{background-color: yellow;}
+
+
+    
+
+
