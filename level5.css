@@ -1,0 +1,207 @@
+
+/*5-1*/
+.body{background-image: url("wildflower\ background.JPEG");
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #002952;}
+.boxlv5{background-color: white;
+   margin: 25%;
+   width: 800px;
+   height: 600px;}
+   .border51{background-color: #8d1936;
+         width: 400px;
+         height: 500px;
+         position: fixed;
+         top: 50px;
+         left: 100px;}
+   .box1-1{background-color: white;
+           position: fixed;
+           width: 300px;
+           height: 400px;
+           top: 100px;
+           left: 150px;}
+   .box1-2{background-color: #8d1936;
+           position: fixed;
+           width: 50px;
+           height: 400px;
+           top: 100px;
+           left: 275px;}
+   .box1-3{background-color: #8d1936;
+           position: fixed;
+           width: 400px;
+           height: 50px;
+           top: 280px;
+           left: 100px;
+           color: white;
+           font-size: 12px;}
+
+
+/*5-2*/
+.bodyn2{background-image: url("wildflower.JPEG");}
+.mintbox{background-color: #bbc4ac;
+              width: 200px;
+              height: 100px;
+              float: left;}
+     .mintbox2{background-color:beige;
+              width: 200px;
+              height: 100px;
+              position: absolute;
+              top: 60px;}
+     .greenbox{background-color: #7baa8f;
+               width: 100px;
+               height: 200px;
+               float: left;}
+     
+     
+     .box{background-color: brown;
+          width: 300px;
+          height: 200px;
+          position: absolute;
+          top: 150px;}
+     .wildflower{position: absolute;
+          top: 200px;
+          right: 800px;}
+     .shadow{background-color: #e7ceb2;
+             width: 250px;
+             height: 250px;
+             position: fixed;
+             bottom: 180px;
+             right: 800px;}
+     
+     
+     .ptext0{position: absolute;
+             top: 30px;
+             left: 500px;
+             color: white;}
+     .ptext{position: absolute;
+            top: 70px;
+            left: 250px;
+            color: white;}
+     .ptext2{position: fixed;
+             top: 90px;
+             right: 800px;
+             color: white;}
+     .ptext3{position: absolute;
+             top: 110px;
+             left: 350px;
+             color: white;}
+     .ptext4{position: fixed;
+             left: 55px;
+             top: 200px;
+             color: white;}
+     .ptext5{position: fixed;
+             right: 950px;
+             bottom: 250px;}
+     .ptext6{position: absolute;
+             top: 450px;
+             left: 100px;
+             background-color: #002952;
+             width: 350px;
+             height: 200px;
+             color: white;}
+     .ptext7{position: fixed;
+             bottom: 30px;
+             right: 850px;
+             color: white;}
+     .ptext8{padding-left: 48%;
+             padding-top: 100px;
+             border: double;
+             border-style: medium;
+             border-color:#e3c099;
+             color: white;}
+     
+     
+     .ptext9{position: fixed;
+             left: 400px;
+             margin: 200px;
+             border: solid;
+             color: white;}
+     .box1{border: solid;
+           border-color: #964b00;
+           background-color: transparent;
+           border-width: 5px;
+           width: 350px;
+           height: 200px;
+           position: absolute;
+           left: 800px;
+           bottom: 450px;}
+     .box2{background-color: #e3c099;
+           width: 10px;
+           height: 600px;
+           position: relative;
+           left: 850px;
+           bottom: 10px;}
+
+
+/*5-3*/
+.element0{width: 100%;
+       height: 100%;
+       animation: pulse 5s infinite;}
+       @keyframes pulse{0% {background-color: #bbc4ac;}
+       100% {background-color: #bfe6ff;
+             background-image: url("free\ wildflower\ background\ removed.PNG");}}
+       html,
+       body {height: 100%;}
+.hp53{font-family:'Berkshire Swash', cursive;
+              text-align: center;
+              margin-top: 50px;
+              line-height: 50px;}        
+.p53{font-family:'Berkshire Swash', cursive;
+   text-align: center;
+   line-height: 50px;
+   margin-left: 430px;
+   border: double;
+          border-color: white;
+          background-color: white;
+          width: 500px;
+          height: 500px;}
+   .p53-1{font-family:'Berkshire Swash', cursive;
+          text-align: center;
+          line-height: 50px;
+          position: absolute;
+          left: 150px;
+          bottom: 100px;
+          border: double;
+          border-width: 5px;
+          border-color: brown;
+          background-color: transparent;
+          width: 300px;
+          height: 300px;}
+   .p53-2{font-family:'Berkshire Swash', cursive;
+      text-align: center;
+      line-height: 50px;
+      position: absolute;
+      right: 150px;
+      top: 100px;
+      border: double;
+      border-width: 5px;
+      border-color: brown;
+      background-color: transparent;
+      width: 300px;
+      height: 300px;}
+
+
+
+/*5-4*/
+.element1 {background-image: linear-gradient(#aab597,#ceabce);
+        margin-top: 50px;;
+        border: 3px solid black;
+        background-color: transparent;
+        width: 400px;
+        height: 600px;
+        animation-name: moving;
+        animation-duration: 2s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+      }
+     
+@keyframes moving {
+    from{
+        margin-left: 0px;
+    } 
+    
+    to{
+        margin-left: 800px;
+    }
+}
