@@ -186,10 +186,5 @@
 /*5-4*/
 .borderimg1 {border: 10px solid transparent;
              padding: 15px;
-             background-image: url("images/heartborder.PNG");
-             width: 500px;
-             height: 500px;
-             position: absolute;
-             top: 100px;
-             left: 500px;}
+             background-image: url("images/heartborder.PNG");}
 
