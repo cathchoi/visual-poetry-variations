@@ -184,13 +184,10 @@
 
 
 /*5-4*/
-.borderimg1 {border: 50px solid transparent;
-             width: 50%;
-             height: 50%;
+.borderimg1 {border: 20px solid transparent;
              padding: 15px;
-             top: 50%;
-             left: 50%;
              position: absolute;
-             transform: translate(-50%, -50%);
+             top: 50px;
+             left: 200px;
              border-image: url("images/heartborder.PNG") 30 round;}
 
