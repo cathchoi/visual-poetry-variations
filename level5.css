@@ -184,24 +184,7 @@
 
 
 /*5-4*/
-.element1 {background-image: linear-gradient(#aab597,#ceabce);
-        margin-top: 50px;
-        animation-name: moving;
-        animation-duration: 2s;
-        animation-iteration-count: 1;
-        animation-fill-mode: forwards;
-      }
-.lv5border{border: 3px solid transparent;
-        border-image: url("images/heart.PNG") 30 round;
-        width: 400px;
-        height: 600px;}
-     
-@keyframes moving {
-    from{
-        margin-left: 0px;
-    } 
-    
-    to{
-        margin-left: 800px;
-    }
-}
+.borderimg1 {border: 10px solid transparent;
+             padding: 15px;
+             border-image: url("images/heart.PNG") 30 round;}
+
