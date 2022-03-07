@@ -184,7 +184,5 @@
 
 
 /*5-4*/
-.borderimg1 {border: 10px solid transparent;
-             padding: 15px;
-             background-image: url("images/heartborder.PNG");}
+.borderimg1 {background-image: url("images/heartborder.PNG");}
 
