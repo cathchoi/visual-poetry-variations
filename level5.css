@@ -187,14 +187,16 @@
 * {padding: 0;
   margin: 0;}
 
-.body {height: 100vh;
+.body {background-image: url("images/vintage\ background.JPEG");
+       height: 100vh;
        display: flex;
        flex-direction: column;
        justify-content: center;
        align-items: center;}
 
 .h1 {font-family:'Nanum Pen Script', cursive;
-     color: brown;
+     width: 100px;
+     color: olive;
      max-width: 40ch;
      text-align: center;
      transform: scale(0.94);
