@@ -188,6 +188,7 @@
   margin: 0;}
 
 .lv5body{background-image: url("./images/vintage\ background.JPEG");
+       background-size: 800px 600px;
        height: 100vh;
        display: flex;
        flex-direction: column;
@@ -195,7 +196,6 @@
        align-items: center;}
 
 .h1 {font-family:'Nanum Pen Script', cursive;
-     width: 500px;
      color: olive;
      max-width: 40ch;
      text-align: center;
