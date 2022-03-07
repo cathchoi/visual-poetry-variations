@@ -184,5 +184,12 @@
 
 
 /*5-4*/
-.borderimg1 {background-image: url("images/heartborder.PNG");}
+.borderimg1 {border: 10px solid transparent;
+             border-image: url("images/heartborder.PNG") 30 round;
+             width: 300px;
+             height: 100px;
+             position: absolute;
+             top: 100px;
+             left: 300px;}
+.fontfor5 {font-family: 'Nanum Pen Script', cursive;}
 
