@@ -188,7 +188,7 @@
   margin: 0;}
 
 .lv5body{background-image: url("./images/vintage\ background.JPEG");
-       background-size: 1100px;
+       background-size: 1200px 1100px;
        height: 100vh;
        display: flex;
        flex-direction: column;
@@ -386,7 +386,7 @@ span:nth-child(41) {
 
 /*5-5*/
 .css-typing p {
-  margin-left: 100px;
+  margin-left: 500px;
   border-right: .50px solid orange;
   font-family: 'Waiting for the Sunrise', cursive;
   font-size: 30px;
@@ -394,7 +394,7 @@ span:nth-child(41) {
   overflow: hidden;
 }
 .css-typing p:nth-child(1) {
-  width: 50px;
+  width: 300px;
   -webkit-animation: type 2s steps(40, end);
   animation: type 2s steps(40, end);
   -webkit-animation-fill-mode: forwards;
@@ -402,7 +402,7 @@ span:nth-child(41) {
 }
 
 .css-typing p:nth-child(2) {
-  width: 50px;
+  width: 300px;
   opacity: 0;
   -webkit-animation: type2 2s steps(40, end);
   animation: type2 2s steps(40, end);
@@ -413,7 +413,7 @@ span:nth-child(41) {
 }
 
 .css-typing p:nth-child(3) {
-  width: 50px;
+  width: 300px;
   opacity: 0;
   -webkit-animation: type3 5s steps(20, end), blink .5s step-end infinite alternate;
   animation: type3 5s steps(20, end), blink .5s step-end infinite alternate;
