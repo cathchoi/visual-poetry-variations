@@ -188,15 +188,15 @@
   margin: 0;}
 
 .lv5body{background-image: url("./images/vintage\ background.JPEG");
-       background-size: 800px 600px;
+       background-size: 1020px 1000px;
        height: 100vh;
        display: flex;
        flex-direction: column;
        justify-content: center;
        align-items: center;}
 
-.h1 {font-family:'Nanum Pen Script', cursive;
-     color: olive;
+.h1 {font-family: 'Cedarville Cursive', cursive;
+     color: black;
      max-width: 40ch;
      text-align: center;
      transform: scale(0.94);
@@ -332,6 +332,50 @@ span:nth-child(29) {
 span:nth-child(30) {
         animation: fade-in 0.8s 3.0s forwards cubic-bezier(0.11, 0, 0.5, 0);
       }
+
+span:nth-child(31) {
+        animation: fade-in 0.8s 3.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+      }     
+  
+span:nth-child(32) {
+        animation: fade-in 0.8s 3.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+      } 
+      
+span:nth-child(33) {
+        animation: fade-in 0.8s 3.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+      }
+
+span:nth-child(34) {
+        animation: fade-in 0.8s 3.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
+      }
+
+span:nth-child(35) {
+        animation: fade-in 0.8s 3.5s forwards cubic-bezier(0.11, 0, 0.5, 0);
+      }
+
+span:nth-child(36) {
+        animation: fade-in 0.8s 3.6s forwards cubic-bezier(0.11, 0, 0.5, 0);
+      } 
+      
+span:nth-child(37) {
+        animation: fade-in 0.8s 3.7s forwards cubic-bezier(0.11, 0, 0.5, 0);
+      }    
+      
+span:nth-child(38) {
+        animation: fade-in 0.8s 3.8s forwards cubic-bezier(0.11, 0, 0.5, 0);
+      }   
+      
+span:nth-child(39) {
+        animation: fade-in 0.8s 3.9s forwards cubic-bezier(0.11, 0, 0.5, 0);
+      }     
+
+span:nth-child(40) {
+        animation: fade-in 0.8s 4.0s forwards cubic-bezier(0.11, 0, 0.5, 0);
+      }  
+      
+span:nth-child(41) {
+        animation: fade-in 0.8s 4.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+      }     
 @keyframes fade-in {
   100% {
     opacity: 1;
