@@ -4,7 +4,7 @@
     border: solid;
     border-width: 2px; 
     border-color: whitesmoke;
-    border-radius: 10px;;
+    border-radius: 10px;
     width: 600px;
     height: 250px;
     color: white;
@@ -25,13 +25,41 @@
         left: 300px;
         text-align: center;
         letter-spacing: 5px;}
-        .HLWheadingbox{background-color: #e6ecd2;
+        .HLWheadingbox-1{background-color: #e6ecd2;
                        width: 100px;
                        height: 50px;
                        border-radius: 10px;
                        position: absolute;
-                       top: 50px;
+                       top: 150px;
                        left: 250px;}
+                       .HLWheadingbox-2{background-color: #e6ecd2;
+                        width: 100px;
+                        height: 50px;
+                        border-radius: 10px;
+                        position: absolute;
+                        top: 150px;
+                        left: 350px;}   
+                        .HLWheadingbox-3{background-color: #e6ecd2;
+                            width: 100px;
+                            height: 50px;
+                            border-radius: 10px;
+                            position: absolute;
+                            top: 150px;
+                            left: 450px;}
+                        .HLWheadingbox-4{background-color: #e6ecd2;
+                                width: 100px;
+                                height: 50px;
+                                border-radius: 10px;
+                                position: absolute;
+                                top: 150px;
+                                left: 550px;}   
+                        .HLWheadingbox-5{background-color: #e6ecd2;
+                                    width: 100px;
+                                    height: 50px;
+                                    border-radius: 10px;
+                                    position: absolute;
+                                    top: 150px;
+                                    left: 650px;}
         
 
 .textbox{background-color: whitesmoke;
