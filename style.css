@@ -3,7 +3,7 @@
     background-size: 500px 500px;
     border: solid;
     border-width: 2px; 
-    border-color: #eae3c9;
+    border-color: whitesmoke;
     border-radius: 10px;;
     width: 600px;
     height: 250px;
@@ -14,7 +14,7 @@
     text-align: center;
     letter-spacing: 7px;}
 
-.textbox{background-color: #eae3c9;
+.textbox{background-color: whitesmoke;
        width: 600px;
        height: 250px;
        border-radius: 10px;
