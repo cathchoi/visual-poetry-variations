@@ -386,9 +386,9 @@ span:nth-child(41) {
 
 /*5-5*/
 .css-typing p {
-  border-right: .15em solid orange;
+  border-right: .50px solid orange;
   font-family: 'Waiting for the Sunrise', cursive;
-  font-size: 14px;
+  font-size: 30px;
   white-space: nowrap;
   overflow: hidden;
 }
@@ -427,7 +427,7 @@ span:nth-child(41) {
     width: 0;
   }
   99.9% {
-    border-right: .15em solid orange;
+    border-right: .50px solid orange;
   }
   100% {
     border: none;
@@ -439,7 +439,7 @@ span:nth-child(41) {
     width: 0;
   }
   99.9% {
-    border-right: .15em solid orange;
+    border-right: .50px solid orange;
   }
   100% {
     border: none;
@@ -454,7 +454,7 @@ span:nth-child(41) {
     opacity: 1;
   }
   99.9% {
-    border-right: .15em solid orange;
+    border-right: .50px solid orange;
   }
   100% {
     opacity: 1;
@@ -470,7 +470,7 @@ span:nth-child(41) {
     opacity: 1;
   }
   99.9% {
-    border-right: .15em solid orange;
+    border-right: .50px solid orange;
   }
   100% {
     opacity: 1;
