@@ -14,14 +14,14 @@
     text-align: center;
     letter-spacing: 7px;}
 
-    .HLWbody{background-image: linear-gradient(red, yellow);
+    .HLWbody{background-color: #99a682;
         width: 600px;
         height: 600px;
         color: black;
         font-family:'Rock Salt', cursive;
         font-size: 12px;
         position: absolute;
-        top: 300px;
+        top: 150px;
         left: 300px;
         text-align: center;
         letter-spacing: 5px;}
