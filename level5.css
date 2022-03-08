@@ -188,7 +188,7 @@
   margin: 0;}
 
 .lv5body{background-image: url("./images/vintage\ background.JPEG");
-       background-size: auto;
+       background-size: 1200px 1100px;
        height: 100vh;
        display: flex;
        flex-direction: column;
