@@ -1,3 +1,4 @@
+/*3-1*/
 .title
     {margin-top: 100px;
      margin-bottom: 100px;
@@ -15,7 +16,7 @@
         margin-right: 200px;}
 
 
-
+/*3-2*/
 div.title2
     {position: relative;
     left: 500px;
@@ -59,7 +60,7 @@ div.text8
 
 
 
-
+/*3-3*/
 div.heading
     {position: absolute;
      top: 50px;
@@ -112,7 +113,7 @@ p.one
       left: 500px;}
 
 
-
+/*3-4*/
 .heading1
       {position: absolute;
        top: 30px;
@@ -168,10 +169,6 @@ div.text4
      padding-right: 300px;}
 
 
-.lv3button{background-color: #7baa8f;
-           width: 100px;
-           height: 50px;}
-.a:hover{background-color: yellow;}
 
 
     
