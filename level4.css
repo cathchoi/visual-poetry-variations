@@ -1,11 +1,11 @@
-
+/*4-1*/
 .body{background-color: #dee5c3;
       font-family: 'Courier New', Courier, monospace;
       position: relative;
       top: 10px;
       text-align: center;}
 
-      div.text{font-family:'Courier New', Courier, monospace;
+      div.text{font-family: 'Cute Font', cursive;
       font-size: 15px;
       position: relative;
       top: 30px;
@@ -49,27 +49,27 @@
               top: 720px;
               left: 510px;}
 
-.block2{background-color: #e3c099;
+.block2{background-color: olive;
         width: 130px;
         height: 200px;
         border-radius: 30px;
         position: absolute;
         bottom: 550px;
-        right: 500px;}
-        .block2-1{background-color: #e3c099;
+        right: 600px;}
+        .block2-1{background-color: olive;
               width: 130px;
               height: 200px;
               border-radius: 30px;
               position: absolute;
               bottom: 300px;
-              right: 500px;}
-        .block2-2{background-color: #e3c099;
+              right: 600px;}
+        .block2-2{background-color: olive;
               width: 130px;
               height: 200px;
               border-radius: 30px;
               position: absolute;
               bottom: 50px;
-              right: 500px;}
+              right: 600px;}
 
 
 
@@ -86,9 +86,11 @@
        padding: 30%;}
 .p1{letter-spacing: 5px;}
 .bigbig{font-size: large;
+       font-weight: bolder;
         text-align: right;}
         .bigbig2{font-size: large;
-              text-align: left;}
+              text-align: left;
+              font-weight:bolder}
 
 /*4-3*/
 .two{border: double;
