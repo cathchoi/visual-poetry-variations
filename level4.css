@@ -66,8 +66,9 @@
 
 
 
-
-.body2{border-style: dotted;
+/*4-2*/
+.body2{background-image: linear-gradient(#e8ded1 #d1c0a8);
+       border-style: dotted;
        border-color: #0da2ff;
        border-width: 5px;
        font-size: 20px;
@@ -78,9 +79,10 @@
        line-height: 50px;
        padding: 30%;}
 .p1{letter-spacing: 5px;}
+.bigbig{font-size:large;}
 
 
-
+/*4-3*/
 .two{border: double;
      border-width: 3px;
      border-radius: 15px;
@@ -114,7 +116,7 @@
      line-height: 50px;
      font-weight: 900;}
 
-
+/*4-4*/
 .body4{background-color: #ded4c0;
        padding: 10%;
        color: #33401c;
@@ -161,7 +163,7 @@
               border: solid;
               border-color: white;}
 
-
+/*4-5*/
 .body5{font-family: 'Playfair Display', serif;
        text-align: left;
        letter-spacing: 5px;
