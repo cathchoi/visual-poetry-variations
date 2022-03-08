@@ -14,9 +14,7 @@
     text-align: center;
     letter-spacing: 7px;}
 
-    .HLWbody{background-image: url("images/daisy.JPG");
-        background-size: 500px 500px;
-        background-color: whitesmoke;
+    .HLWbody{background-image: linear-gradient(white olive);
         width: 600px;
         height: 600px;
         color: black;
