@@ -15,12 +15,10 @@
     letter-spacing: 7px;}
 
     .HLWbody{background-image: url("images/Crumbled.JPEG");
-        width: 600px;
-        height: 600px;
         color: black;
         font-family:'Rock Salt', cursive;
         font-size: 12px;
-        font-weight: medium;
+        font-weight: large;
         position: absolute;
         top: 150px;
         left: 300px;
