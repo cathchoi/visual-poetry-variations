@@ -15,7 +15,7 @@
     letter-spacing: 7px;}
 
     .HLWbody{background-image: url("images/Crumbled.JPEG");
-        height: 100%;
+        height: 200%;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -26,7 +26,7 @@
         font-weight: large;
         position: absolute;
         top: 150px;
-        left: 500px;
+        left: 300px;
         text-align: center;
         letter-spacing: 5px;}
         .HLWheadingbox-1{background-color: #e6ecd2;
