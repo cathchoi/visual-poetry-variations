@@ -14,8 +14,8 @@
     text-align: center;
     letter-spacing: 7px;}
 
-    .HLWbody{background-image: url("images/Crumbled.JPEG");
-        height: 200%;
+    .HLWhtml{background-image: url("images/Crumbled.JPEG");
+        height: 100%;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
