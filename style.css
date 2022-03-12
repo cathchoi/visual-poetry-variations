@@ -26,39 +26,39 @@
         font-size: 12px;
         font-weight: large;
         position: absolute;
-        top: 150px;
+        top: 50px;
         left: 300px;
         text-align: center;
         letter-spacing: 5px;}
-        .HLWheadingbox-1{background-color: #e6ecd2;
+        .HLWheadingbox-1{background-color: burlywood;
                        width: 100px;
                        height: 50px;
                        border-radius: 10px;
                        position: absolute;
                        top: 30px;
                        left: 350px;}
-                       .HLWheadingbox-2{background-color: #e6ecd2;
+                       .HLWheadingbox-2{background-color: burlywood;
                         width: 100px;
                         height: 50px;
                         border-radius: 10px;
                         position: absolute;
                         top: 130px;
                         left: 350px;}   
-                        .HLWheadingbox-3{background-color: #e6ecd2;
+                        .HLWheadingbox-3{background-color: burlywood;
                             width: 100px;
                             height: 50px;
                             border-radius: 10px;
                             position: absolute;
                             top: 230px;
                             left: 350px;}
-                        .HLWheadingbox-4{background-color: #e6ecd2;
+                        .HLWheadingbox-4{background-color: burlywood;
                                 width: 100px;
                                 height: 50px;
                                 border-radius: 10px;
                                 position: absolute;
                                 top: 330px;
                                 left: 350px;}   
-                        .HLWheadingbox-5{background-color: #e6ecd2;
+                        .HLWheadingbox-5{background-color: burlywood;
                                     width: 100px;
                                     height: 50px;
                                     border-radius: 10px;
