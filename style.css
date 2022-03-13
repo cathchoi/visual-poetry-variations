@@ -30,35 +30,35 @@
         left: 500px;
         text-align: center;
         letter-spacing: 5px;}
-        .HLWheadingbox-1{border-color: #654321;
+        .HLWheadingbox-1{background-color: whitesmoke;
                        width: 100px;
                        height: 50px;
                        border-radius: 10px;
                        position: absolute;
                        top: 30px;
                        left: 350px;}
-                       .HLWheadingbox-2{border-color:#654321;
+                       .HLWheadingbox-2{background-color: whitesmoke;
                         width: 100px;
                         height: 50px;
                         border-radius: 10px;
                         position: absolute;
                         top: 130px;
                         left: 350px;}   
-                        .HLWheadingbox-3{border-color:#654321;
+                        .HLWheadingbox-3{background-color: whitesmoke;
                             width: 100px;
                             height: 50px;
                             border-radius: 10px;
                             position: absolute;
                             top: 230px;
                             left: 350px;}
-                        .HLWheadingbox-4{border-color:#654321;
+                        .HLWheadingbox-4{background-color: whitesmoke;
                                 width: 100px;
                                 height: 50px;
                                 border-radius: 10px;
                                 position: absolute;
                                 top: 330px;
                                 left: 350px;}   
-                        .HLWheadingbox-5{border-color:#654321;
+                        .HLWheadingbox-5{background-color: whitesmoke;
                                     width: 100px;
                                     height: 50px;
                                     border-radius: 10px;
