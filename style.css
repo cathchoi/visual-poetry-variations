@@ -10,7 +10,7 @@
     color: white;
     font-family:'Rock Salt', cursive;
     font-size: medium;
-    margin: 25%;
+    margin: 15%;
     text-align: center;
     letter-spacing: 7px;}
 
@@ -26,7 +26,7 @@
         font-size: 12px;
         font-weight: large;
         position: absolute;
-        top: 200px;
+        top: 150px;
         left: 550px;
         text-align: center;
         letter-spacing: 5px;}
