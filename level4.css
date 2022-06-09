@@ -134,7 +134,7 @@
 
 /*4-4*/
 .body4{background-color: #ded4c0;
-       padding: 10%;
+       padding: 5%;
        color: #33401c;
        font-family: 'Sansita Swashed', cursive;
        letter-spacing: 5px;
@@ -145,19 +145,19 @@
                 border-width: 10px;
                 border-radius: 20px;}
 .h2{position: absolute;
-    padding: 10%;
+    padding: 5%;
     color: brown;}
     .h2-1{position: absolute;
-          padding: 20%;
+          padding: 10%;
           color: brown;}
     .h2-2{position: absolute;
-          padding: 30%;
+          padding: 15%;
           color: brown;}
           .h2-3{position: absolute;
-              padding: 40%;
+              padding: 20%;
               color: brown;}
               .h2-4{position: absolute;
-                     padding: 50%;
+                     padding: 25%;
                      color: brown;}
 .w1{font-size: 25px;
     position: absolute;
